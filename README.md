@@ -2,4 +2,4 @@
 - Iniciante no Desenvolvimento Web
 - Programador Junior
 
-  <img src="C:\Users\aluno\Downloads\html">
+  <img src="\Users\aluno\Downloads\html\htl.png">
